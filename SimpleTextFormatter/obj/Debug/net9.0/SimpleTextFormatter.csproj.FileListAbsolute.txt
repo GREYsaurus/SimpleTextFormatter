@@ -1,0 +1,14 @@
+E:\REPOS\projects\SimpleTextFormatter\SimpleTextFormatter\bin\Debug\net9.0\SimpleTextFormatter.exe
+E:\REPOS\projects\SimpleTextFormatter\SimpleTextFormatter\bin\Debug\net9.0\SimpleTextFormatter.deps.json
+E:\REPOS\projects\SimpleTextFormatter\SimpleTextFormatter\bin\Debug\net9.0\SimpleTextFormatter.runtimeconfig.json
+E:\REPOS\projects\SimpleTextFormatter\SimpleTextFormatter\bin\Debug\net9.0\SimpleTextFormatter.dll
+E:\REPOS\projects\SimpleTextFormatter\SimpleTextFormatter\bin\Debug\net9.0\SimpleTextFormatter.pdb
+E:\REPOS\projects\SimpleTextFormatter\SimpleTextFormatter\obj\Debug\net9.0\SimpleTextFormatter.GeneratedMSBuildEditorConfig.editorconfig
+E:\REPOS\projects\SimpleTextFormatter\SimpleTextFormatter\obj\Debug\net9.0\SimpleTextFormatter.AssemblyInfoInputs.cache
+E:\REPOS\projects\SimpleTextFormatter\SimpleTextFormatter\obj\Debug\net9.0\SimpleTextFormatter.AssemblyInfo.cs
+E:\REPOS\projects\SimpleTextFormatter\SimpleTextFormatter\obj\Debug\net9.0\SimpleTextFormatter.csproj.CoreCompileInputs.cache
+E:\REPOS\projects\SimpleTextFormatter\SimpleTextFormatter\obj\Debug\net9.0\SimpleTextFormatter.dll
+E:\REPOS\projects\SimpleTextFormatter\SimpleTextFormatter\obj\Debug\net9.0\refint\SimpleTextFormatter.dll
+E:\REPOS\projects\SimpleTextFormatter\SimpleTextFormatter\obj\Debug\net9.0\SimpleTextFormatter.pdb
+E:\REPOS\projects\SimpleTextFormatter\SimpleTextFormatter\obj\Debug\net9.0\SimpleTextFormatter.genruntimeconfig.cache
+E:\REPOS\projects\SimpleTextFormatter\SimpleTextFormatter\obj\Debug\net9.0\ref\SimpleTextFormatter.dll
